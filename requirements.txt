@@ -1,0 +1,5 @@
+pyscf
+numpy
+scipy
+matplotlib
+streamlit
